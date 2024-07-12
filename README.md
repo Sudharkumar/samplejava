@@ -1,1 +1,3 @@
 # samplejava
+
+echo "Hello"
